@@ -31,8 +31,12 @@ h3 {
   max-width: 1100px;
 }
 
-.container {
+.centered {
   display: flex;
   justify-content: center;
   margin: 0 auto;
+}
+
+.padding-100-0 {
+  padding: 100px 0;
 }
