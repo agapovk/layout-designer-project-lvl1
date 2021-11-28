@@ -155,18 +155,18 @@ nav img {
   color: white;
 }
 
-nav article {
+nav .two-column-text {
   margin-top: 109px;
 }
 
-article {
+.two-column-text {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   align-content: space-between;
 }
 
-article div {
+.two-column-text div {
   width: 540px;
 }
 
