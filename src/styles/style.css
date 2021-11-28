@@ -106,7 +106,7 @@ a {
 }
 
 .no-padding {
-  padding: 0;!important
+  padding: 0;
 }
 
 .padding-100-0 {
@@ -389,10 +389,10 @@ header a:hover {
   width: calc(50% - 10px);
 }
 
-#premature-optimization h2{
+#premature-optimization h2 {
   margin-bottom: 1em;
 }
 
-#premature-optimization ul{
+#premature-optimization ul {
   margin-bottom: 1em;
 }
