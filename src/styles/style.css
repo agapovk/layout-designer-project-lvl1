@@ -167,12 +167,15 @@ nav img {
   color: white;
 }
 
+nav article {
+  margin-top: 109px;
+}
+
 article {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   align-content: space-between;
-  margin-top: 109px;
 }
 
 article div {
