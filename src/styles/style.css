@@ -106,7 +106,7 @@ a {
 }
 
 .no-padding {
-  padding: 0;
+  padding: 0;!important
 }
 
 .padding-100-0 {
@@ -289,7 +289,6 @@ header a:hover {
 .caption {
   font-family: "Neucha", sans-serif;
   font-size: 24px;
-  margin: 0;
 }
 
 .light-item .caption {
@@ -297,16 +296,12 @@ header a:hover {
 }
 
 .description {
-  margin: 1em 0;
   font-family: "Neucha", sans-serif;
   font-size: 34px;
   line-height: 40px;
 }
 
-#premature-optimization p {
-  margin: 1em 0;
-}
-*/ .shadow {
+.shadow {
   filter: drop-shadow(0 16px 32px rgba(0, 0, 0, 0.15));
 }
 
