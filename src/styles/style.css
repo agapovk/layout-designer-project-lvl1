@@ -83,7 +83,6 @@ a {
   flex-direction: column;
   justify-content: center;
   margin: 0 auto;
-  z-index: 100;
 }
 
 .flex-row {
