@@ -84,13 +84,6 @@ a {
   margin: 0 auto;
 }
 
-.flex-column-centered {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  margin: 0 auto;
-}
-
 .flex-row {
   display: flex;
   flex-direction: row;
