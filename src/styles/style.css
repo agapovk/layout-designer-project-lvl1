@@ -54,6 +54,10 @@ h5 {
   text-transform: uppercase;
 }
 
+header p {
+  margin-bottom: 1em;
+}
+
 ul {
   padding-inline-start: 40px;
 }
