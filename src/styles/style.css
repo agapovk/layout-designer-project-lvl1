@@ -180,6 +180,7 @@ article div {
 }
 
 nav a {
+  display: inline-block;
   margin-top: 40px;
   padding: 12px 24px;
   color: white;
